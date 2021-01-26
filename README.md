@@ -19,4 +19,4 @@ The YOLO architecture is: IMAGE (m, 608, 608, 3) -> DEEP CNN -> ENCODING (m, 19,
 
 ## Bounding boxes - non max supression
 Yolo uses the non max supression algorithm to filter out the bounding boxes and come up with the final set of bounding boxes that resemble the training data. 
-![Non max suppression](example_images/non max supression.png)
+![Non max suppression]("example_images/non max supression.png")
