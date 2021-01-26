@@ -23,4 +23,4 @@ Yolo uses the non max supression algorithm to filter out the bounding boxes and 
 
 ## Example results
 Example result on a test image
-![Results](example_images/results.PNG.PNG)
+![Results](example_images/results.PNG)
